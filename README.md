@@ -23,7 +23,7 @@
                   </a>
               </li>
               <li>
-                  <a href="https://ahmadboxx.github.io/entertainment/.">
+                  <a href="https://ahmadboxx.github.io/Entertainmentnew/">
                       Anime
                   </a>
               </li>
